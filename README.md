@@ -32,7 +32,7 @@ I have practical experience in:
 
 - **Web Development**: Building responsive and user-friendly websites and web applications using HTML, CSS, JavaScript, and frameworks like React.
 - **Web Technologies**: Familiarity with various web technologies, including RESTful APIs, Node.js, and Express.js.
-- **Projects**: [Link to some of your relevant projects](https://github.com/yourusername/your-project)
+
 
 ## Skills
 
