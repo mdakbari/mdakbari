@@ -1,13 +1,13 @@
-# Hello, I'm [Manthan Akbari]! 👋
+# Hello, I'm Manthan Akbari! 👋
 
 I'm a third-year AI and Machine Learning student with a strong foundation in IT and a passion for web development. This README serves as a brief introduction to who I am and what you can find in my GitHub profile.
 
 ## About Me
 
-- **Name**: [Akbari Manthan Dineshbhai]
+- **Name**: Akbari Manthan Dineshbhai
 - **Academic Status**: Third-Year AI-ML Student
 - **Diploma**: Diploma in Information Technology
-- **LinkedIn**: [Manthan Akbari](www.linkedin.com/in/manthan-akbari-825995236)
+- **LinkedIn**: Manthan Akbari(www.linkedin.com/in/manthan-akbari-825995236/)
 <!-- - **Portfolio**: [Your Portfolio Website](https://www.your-portfolio-website.com/)-->
 
 ## Education
@@ -30,10 +30,9 @@ I have practical experience in:
 
 Here are some of the skills I've acquired and continue to develop:
 
-- **Programming Languages**: Python, JavaScript
-- **Machine Learning**: scikit-learn, TensorFlow, PyTorch
+- **Programming Languages**: Python, JavaScript,Java
 - **Web Development**: HTML, CSS, JavaScript, React, Node.js
-- **Data Analysis**: Pandas, Matplotlib, Seaborn
+
 - **Databases**: SQL, MongoDB
 - **Version Control**: Git, GitHub
 
