@@ -7,8 +7,8 @@ I'm a third-year AI and Machine Learning student with a strong foundation in IT 
 - **Name**: [Akbari Manthan Dineshbhai]
 - **Academic Status**: Third-Year AI-ML Student
 - **Diploma**: Diploma in Information Technology
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/manthan-akbari-825995236)
-- **Portfolio**: [Your Portfolio Website](https://www.your-portfolio-website.com/)
+- **LinkedIn**: [Manthan Akbari](www.linkedin.com/in/manthan-akbari-825995236)
+<!-- - **Portfolio**: [Your Portfolio Website](https://www.your-portfolio-website.com/)-->
 
 ## Education
 
