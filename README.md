@@ -7,16 +7,24 @@ I'm a third-year AI and Machine Learning student with a strong foundation in IT 
 - **Name**: Akbari Manthan Dineshbhai
 - **Academic Status**: Third-Year AI-ML Student
 - **Diploma**: Diploma in Information Technology
-- **LinkedIn**: Manthan Akbari(www.linkedin.com/in/manthan-akbari-825995236/)
-<!-- - **Portfolio**: [Your Portfolio Website](https://www.your-portfolio-website.com/)-->
 
 ## Education
 
-I'm currently pursuing my Bachelor's degree in AI and Machine Learning, building a solid understanding of data science, deep learning, and artificial intelligence. My education includes:
+I'm currently pursuing my Bachelor's degree in AI and Machine Learning, building a solid understanding of data science, deep learning, and artificial intelligence. Additionally, I have completed a diploma in Information Technology, which provides a strong foundation in IT.
 
-- [Course/Subject 1]
-- [Course/Subject 2]
-- [Course/Subject 3]
+- **Bachelor's Degree in AI and Machine Learning**: [Gujarat Technological University, 2025]
+  - Machine Learning Fundamentals
+  -  Neural Networks
+  -  Probability and Statistics for AI
+  -  Algorithms and Data Structures
+  -  Computer Vision
+    
+- **Diploma in Information Technology**: [Government Aolytechnic Ahmedabad, 2022]
+  - Introduction to Information Technology
+  - Web Development Technologies
+  - Database Management and SQL
+  - Operating Systems
+  - Introduction to Programming
 
 ## Experience
 
@@ -30,36 +38,18 @@ I have practical experience in:
 
 Here are some of the skills I've acquired and continue to develop:
 
-- **Programming Languages**: Python, JavaScript,Java
+- **Programming Languages**: Python, JavaScript, Java
 - **Web Development**: HTML, CSS, JavaScript, React, Node.js
-
 - **Databases**: SQL, MongoDB
 - **Version Control**: Git, GitHub
-
-## Projects
-
-Here are a few of the projects I've worked on:
-
-1. **Project Name**: [Project 1 Name]
-   - Description: [Brief description of the project]
-   - Repository: [Link to the project repository](https://github.com/yourusername/project1)
-
-2. **Project Name**: [Project 2 Name]
-   - Description: [Brief description of the project]
-   - Repository: [Link to the project repository](https://github.com/yourusername/project2)
-
-3. **Project Name**: [Project 3 Name]
-   - Description: [Brief description of the project]
-   - Repository: [Link to the project repository](https://github.com/yourusername/project3)
 
 ## Contact Me
 
 Feel free to connect with me via:
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
-- Twitter: [Your Twitter Handle](https://twitter.com/your-handle)
+ <a href="www.linkedin.com/in/manthan-akbari-825995236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/m_d_akbari18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijayparmar1110_" height="30" width="40" /></a>
+ <a href="mailto:manthanakbari999@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" height="30" width="40" /></a>
 
 I'm always open to collaboration and discussions related to AI, ML, web development, or anything exciting in tech!
 
