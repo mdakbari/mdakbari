@@ -16,7 +16,7 @@ I'm a student pursuing a Bachelor's degree in AI and Machine Learning from Gujar
 <p align="center">
   <a href="https://github.com/mdakbari?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.prathmeshsoni.works/github/stars/?username=mdakbari"/></a>
-  <a href="https://github.com/mdakbae?tab=followers">
+  <a href="https://github.com/mdakbari?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.prathmeshsoni.works/github/followers/?username=mdakbari"/></a>
 </p>
 
@@ -44,9 +44,10 @@ I'm a student pursuing a Bachelor's degree in AI and Machine Learning from Gujar
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/mdakbari/Ecommerce"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=ecom&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
-    <a href="https://github.com/mdakbari/Private-App"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=StellarStories&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/mdakbari/Money-Management"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=react_app&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
+    <a href="https://github.com/mdakbari/ecom"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=stellarStories&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/mdakbari/react_app"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=react_app&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
+    <a href="https://github.com/mdakbari/flask-login"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=flask-login&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
+    <a href="https://github.com/mdakbari/ecom"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=ecom&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
   </p>
 
 
