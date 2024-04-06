@@ -34,7 +34,7 @@ I'm a student pursuing a Bachelor's degree in AI and Machine Learning from Gujar
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mdakbari&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  s
   </td>
 </tr>
 </table>
