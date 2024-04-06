@@ -127,3 +127,8 @@ I'm a student pursuing a Bachelor's degree in AI and Machine Learning from Gujar
     </a>&nbsp;&nbsp;
 
 </p>
+
+
+## Activity Graph
+
+[![Manthan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdakbari&bg_color=000000&color=eee2ed&line=f2f2f2&point=fa0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
