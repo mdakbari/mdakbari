@@ -47,7 +47,7 @@ I'm a student pursuing a Bachelor's degree in AI and Machine Learning from Gujar
     <a href="https://github.com/mdakbari/ecom"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=stellarStories&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/mdakbari/react_app"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=react_app&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
     <a href="https://github.com/mdakbari/flask-login"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=flask-login&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
-    <a href="https://github.com/mdakbari/ecom"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=ecom&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
+    <a href="https://github.com/mdakbari/ecom"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=Currency-Converter&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
   </p>
 
 
@@ -131,4 +131,4 @@ I'm a student pursuing a Bachelor's degree in AI and Machine Learning from Gujar
 
 ## Activity Graph
 
-[![Manthan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdakbari&bg_color=000000&color=eee2ed&line=f2f2f2&point=fa0000&area=true&hide_border=true)]
+![Manthan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdakbari&bg_color=000000&color=eee2ed&line=f2f2f2&point=fa0000&area=true&hide_border=true)
