@@ -15,9 +15,9 @@ I'm a student pursuing a Bachelor's degree in AI and Machine Learning from Gujar
 
 <p align="center">
   <a href="https://github.com/mdakbari?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.prathmeshsoni.works/github/stars/?username=mdakbari"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/mdakbari?style=for-the-badge"/></a>
   <a href="https://github.com/mdakbari?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.prathmeshsoni.works/github/followers/?username=mdakbari"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/mdakbari?style=for-the-badge"/></a>
 </p>
 
 
