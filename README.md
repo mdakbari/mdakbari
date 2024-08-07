@@ -15,11 +15,10 @@ I'm a student pursuing a Bachelor's degree in AI and Machine Learning from Gujar
 
 <p align="center" dir="auto">
   <a href="https://github.com/mdakbari?tab=repositories&amp;sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://camo.githubusercontent.com/d9e0718582b4810c912b085cdacb79f1fcf7f4399eb44cf0b24a5242f7b77e7d/68747470733a2f2f637573746f6d2d69636f6e732d6261646765732e76657263656c2e6170702f6769746875622f73746172732f3f757365726e616d653d70726174686d657368736f6e69" data-canonical-src="https://custom-icons-badges.vercel.app/github/stars/?username=mdakbari" style="max-width: 100%;"></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/mdakbari?style=for-the-badge" data-canonical-src="https://custom-icons-badges.vercel.app/github/stars/?username=mdakbari" style="max-width: 100%;"></a>
   <a href="https://github.com/mdakbari?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://camo.githubusercontent.com/14085b168f4a89151813414a6667c0f1af4cc347838456ee6dd257f215adc213/68747470733a2f2f637573746f6d2d69636f6e732d6261646765732e76657263656c2e6170702f6769746875622f666f6c6c6f776572732f3f757365726e616d653d736f6e6970726174686d657368" data-canonical-src="https://custom-icons-badges.vercel.app/github/followers/?username=mdakbari" style="max-width: 100%;"></a>
-  <a href="https://github.com/mdakbari/">
-    <img alt="views" title="GitHub profile views" src="https://camo.githubusercontent.com/7f5d3f1b4402976a69a1809fb24dbebeaf0cecabca74fac21b0c62f65c4d36a5/68747470733a2f2f637573746f6d2d69636f6e732d6261646765732e76657263656c2e6170702f6769746875622f76697369746f72732f3f757365726e616d653d70726174686d657368736f6e69" data-canonical-src="https://custom-icons-badges.vercel.app/github/visitors/?username=mdakbari" style="max-width: 100%;"></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/mdakbari?style=for-the-badge" data-canonical-src="https://custom-icons-badges.vercel.app/github/followers/?username=mdakbari" style="max-width: 100%;"></a>
+ 
 </p>
 
 
