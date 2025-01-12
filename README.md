@@ -45,7 +45,7 @@ I'm a student pursuing a Bachelor's degree in AI and Machine Learning from Gujar
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/mdakbari/ecom"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=stellarStories&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/mdakbari/StellarStories"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=stellarStories&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/mdakbari/react_app"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=react_app&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
     <a href="https://github.com/mdakbari/stylex_ecommerce"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=stylex_ecommerce&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
     <a href="https://github.com/mdakbari/ecom"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdakbari&repo=Currency-Converter&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
